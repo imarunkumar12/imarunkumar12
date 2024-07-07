@@ -2,7 +2,7 @@
 
 👋 Hey there! I'm Arun Kumar, a passionate aspiring Data Analyst eager to embark on the journey of transforming data into actionable insights.
 
-About Me
+<h3>About Me</h3>
 
 <li>📈 Proficient in SQL, Advanced Excel, Microsoft Power BI & Google studio I excel in data analysis, visualization, and crafting dynamic dashboards.</li>
 🧐 In addition to my technical skills, I bring strong analytical thinking, attention to detail, and effective communication to every project. My adaptability, collaboration, and results-driven approach ensure success in any endeavor.
