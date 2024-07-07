@@ -6,7 +6,8 @@
 
 <li>📈 Proficient in SQL, Advanced Excel, Microsoft Power BI & Google studio I excel in data analysis, visualization, and crafting dynamic dashboards.</li>
 🧐 In addition to my technical skills, I bring strong analytical thinking, attention to detail, and effective communication to every project. My adaptability, collaboration, and results-driven approach ensure success in any endeavor.
-What You'll Find Here
+
+<h3>What You'll Find Here</h3>
 
 📚 Projects: Explore my work in data analysis, visualization, and machine learning, including:
 
