@@ -1,4 +1,4 @@
-<u text-decoration:underline>**Welcome to My GitHub!**</u>
+<u text-decoration:"underline">**Welcome to My GitHub!**</u>
 
 👋 Hey there! I'm Arun Kumar, a passionate aspiring Data Analyst eager to embark on the journey of transforming data into actionable insights.
 
