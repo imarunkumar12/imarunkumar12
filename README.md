@@ -1,7 +1,9 @@
-Welcome to My GitHub!
+<u>Welcome to My GitHub!</u>
+
 👋 Hey there! I'm Arun Kumar, a passionate aspiring Data Analyst eager to embark on the journey of transforming data into actionable insights.
 
 About Me
+
 📈 Proficient in SQL, Advanced Excel, Microsoft Power BI & Google studio I excel in data analysis, visualization, and crafting dynamic dashboards.
 🧐 In addition to my technical skills, I bring strong analytical thinking, attention to detail, and effective communication to every project. My adaptability, collaboration, and results-driven approach ensure success in any endeavor.
 What You'll Find Here
